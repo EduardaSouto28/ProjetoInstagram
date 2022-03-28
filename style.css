@@ -1,0 +1,119 @@
+body{
+    background-color: rgb(245, 245, 245) !important;
+}
+.nav-top{
+    height: 60px;
+    background-color: white !important; 
+    border-top:0.5px solid #dbdbdb; 
+    border-bottom:1px solid #dbdbdb;
+}
+.nav-container{
+    padding-left:19% !important;
+    padding-right:21% !important;
+    padding-bottom: 100% !important;
+}
+
+#Logo{
+    max-height:60px;
+    font-size:15px ;
+    margin-top: -7px;
+}
+
+.form-control{
+    height: 35px;
+    width: 265px !important;
+    background-color: #ececec !important;
+    padding-left:10% !important;
+    font-size: 15px !important;
+    border-width: 0px !important;
+    border-radius: 8px !important;
+    margin-top: -10px;
+
+}
+
+.icons{
+    padding: 9px;
+    font-size: 25px;
+}
+
+#perfil{
+    border-radius: 100%;
+   -o-border-radius:100%;
+   -webkit-border-radius: 100%;
+   -moz-border-radius: 100%;
+    max-width: 200px;
+    max-height: 150px;
+}
+
+.button-edit{
+    height: 27px;
+    width: 100px;
+    font-size: 14px !important;
+    color:black !important;
+    padding-top: 1px !important;
+    border-color:#ced5db !important;
+}
+
+.bi-gear-wide{
+    font-size: 24px;
+}
+
+.username{
+    font-weight: 300;
+    font-size: 28px;
+}
+
+.profile-datas{
+    font-size: 16px;
+}
+
+.name{
+    font-size: 16px;
+    display: inline;
+    font-weight: 600 !important;
+}
+
+.stories{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.nav-feed {
+    border-bottom: none !important; 
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 0px;
+}
+
+.nav-link-1 {
+    color: #495057;
+    background-color:rgb(245, 245, 245) !important;
+    border-color: gray rgb(245, 245, 245) rgb(245, 245, 245)  !important;
+    border-top-right-radius: .0rem !important;
+    border-top-left-radius: .0rem !important;
+    font-size: 13px;
+    font-weight: 500;
+    margin-right: 26px;
+}
+
+.nav-link-2 {
+    color: #9ea1a5 !important;
+    background-color:rgb(245, 245, 245) !important;
+    border-color:rgb(245, 245, 245) !important;
+    border-top-right-radius: .0rem !important;
+    border-top-left-radius: .0rem !important;
+    font-size: 13px;
+    font-weight: 500;
+    margin-right: 26px;
+}
+.nav-link-3 {
+    color: #9ea1a5 !important;
+    background-color:rgb(245, 245, 245) !important;
+    border-color:rgb(245, 245, 245) !important;
+    border-top-right-radius: .0rem !important;
+    border-top-left-radius: .0rem !important;
+    font-size: 13px;
+    font-weight: 500;
+}
