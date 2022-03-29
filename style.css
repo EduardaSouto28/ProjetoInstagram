@@ -117,3 +117,13 @@ body{
     font-size: 13px;
     font-weight: 500;
 }
+
+.card {
+    border: 0px solid rgba(0,0,0,.125) !important;
+    border-radius: .0rem !important;
+}
+
+.card .card-img, .card-img-top {
+    border-top-left-radius: 0rem !important;
+    border-top-right-radius: 0rem !important;
+}
